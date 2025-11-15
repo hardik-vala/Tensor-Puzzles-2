@@ -12,7 +12,7 @@ This notebook is a sequel to Tensor Puzzles, for those looking for additional pr
 
 I highly recommend running the notebook in Colab. Click here and copy the notebook to start.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hardik-vala/Tensor-Puzzles-2/blob/main/Tensor%20Puzzles%202.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hardik-vala/Tensor-Puzzles-2/blob/main/Tensor_Puzzles_2.ipynb)
 
 ### diagrams
 
