@@ -55,7 +55,7 @@ def draw_examples(examples, diagram_fn=None):
     tensor_diagram = td.to_diagram(t) \
       .fill_color(SOLARIZED_LIGHT_COLORS["magenta"]) \
       .fill_opacity(opacity_fn) \
-      .fill_values(format_fn=format_fn)
+      .fill_values(format=format_fn)
 
     return tensor_diagram.to_chalk_diagram()
 
